@@ -1,0 +1,16 @@
+{
+  "name": "mailer",
+  "version": "0.0.0",
+  "description": "mailer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jon z",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-email-builder": "~3.0.1"
+  }
+}
